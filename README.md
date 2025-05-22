@@ -2,7 +2,7 @@
 A Scratch game created using the [Scratch](https://scratch.mit.edu) platform. This repository contains all assets, scripts, and documentation to run, remix, or understand the game's mechanics.
 # 🎮 Scratch Game: [Your Game Name]
 
-![Scratch Game Banner](banner.png) <!-- Optional: Add a banner image -->
+![Scratch Game Banner](https://www.stylus.co.za/wp-content/uploads/2023/03/scratch_banner.gif) <!-- Optional: Add a banner image -->
 
 A Scratch game created using the [Scratch](https://scratch.mit.edu) platform. This repository contains all assets, scripts, and documentation to run, remix, or understand the game's mechanics.
 
